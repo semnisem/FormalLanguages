@@ -22,8 +22,7 @@
             "name": "Token",
             "request": "launch",
             "mainClass": "Token",
-            "projectName": "scanner_af7f446",
-            "args": ["test.mc"]
+            "projectName": "scanner_af7f446"
         }
     ]
 }

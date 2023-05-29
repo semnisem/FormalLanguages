@@ -20,12 +20,5 @@ public enum TokenType {
     //literals
     CharLiteral,StringLiteral,DoubleLiteral, //.123,   123. 과 같은 숏폼연산자
 
-    //comments
-    DocumentedComment,
-    SingleLineComment,
 
-    //token properties
-    FileName,
-    LineNumber,
-    ColumnNumber
 }

@@ -3,7 +3,7 @@
    121 or 1221 is a palindrome.
 */
 
-const max = 100;
+const max =100.;
 
 int sum(int n, int m)
 {
