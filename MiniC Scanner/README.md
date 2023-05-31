@@ -1,2 +1,4 @@
 # Scanner Program for MiniC
-!✅ Java version
+✅ Java version  
+
+### and, expanded the Scanner
